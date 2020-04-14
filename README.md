@@ -2,10 +2,11 @@ This is npm package for ethiopian easterday generator the ethiopian easter day i
 
 download
 
-npm i ethiopia-easterday-generator
+npm i ethiopia-easterday-generators
 
 sample usage 
-import {Easter} from "Easter"
+
+import {Easter} from "ethiopia-easterday-generator"
 var year = 2012;
 Console.log(Easter(year));
 
