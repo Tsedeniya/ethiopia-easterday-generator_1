@@ -1,0 +1,24 @@
+{
+  "name": "ethiopia-easterday-generator_1",
+  "version": "1.0.0",
+  "description": "This is easter day generator for ethiopian's since ethiopia has different easter days in each year this package helps to generate the day by inserting the year you can find the easter day of the year.This package is done by using the idea of \"Bahire hasab\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tsedeniya/ethiopia-easterday-generator_1.git"
+  },
+  "keywords": [
+    "ethiopian",
+    "easter",
+    "day"
+  ],
+  "author": "Tsedeniya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tsedeniya/ethiopia-easterday-generator_1/issues"
+  },
+  "homepage": "https://github.com/Tsedeniya/ethiopia-easterday-generator_1#readme"
+}
